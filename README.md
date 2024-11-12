@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Node.js-greren)
 
 ## ① 課題名
-新世代・自律分散型ポイント「PoiPoi」
+新世代・自律分散型ポイントサービス「PoiPoi」
 
 ## ② 課題内容（どんな作品か）
 
